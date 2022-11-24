@@ -7,9 +7,9 @@ public class App {
         Cat cat = new Cat("Grizabella","white",29,true);
         output(cat.getStringAttributes("#name"));
         output(cat.getStringAttributes("#Color"));
-output(cat.getAge());
-output(cat.getAge());
-output(cat.getAge());
+        output(cat.getAge());
+        output(cat.getAge());
+        output(cat.getAge());
 
         output(String.valueOf(cat.getAge()));
     
